@@ -194,4 +194,3 @@ terraform destroy
 
 ---
 
-*Sean Keener · Azure Infrastructure Lab Series · [github.com/seankeener](https://github.com/seankeener)*
